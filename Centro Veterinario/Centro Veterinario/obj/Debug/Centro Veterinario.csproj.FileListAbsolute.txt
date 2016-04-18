@@ -1,0 +1,12 @@
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\bin\Debug\Centro Veterinario.exe.config
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\bin\Debug\Centro Veterinario.exe
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\bin\Debug\Centro Veterinario.pdb
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro Veterinario.csprojResolveAssemblyReference.cache
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro_Veterinario.Form1.resources
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro_Veterinario.Form2.resources
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro_Veterinario.Properties.Resources.resources
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro Veterinario.csproj.GenerateResource.Cache
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro Veterinario.exe
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro Veterinario.pdb
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro_Veterinario.Nueva_Mascota.resources
+C:\Users\Nico_2\Desktop\Centro Veterinario\Centro Veterinario\obj\Debug\Centro_Veterinario.Nuevo_Cliente.resources
